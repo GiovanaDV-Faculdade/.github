@@ -14,7 +14,8 @@
 - [Fundamentos de OO](https://github.com/GiovanaDV/Aula01-OOP.git)
 
 ### 🔹 Application Development
-- 
+- [Conceitos básicos de HTML e CSS](https://github.com/GiovanaDV/CP1-.git)
+
 ---
 
 ## 📚 2025
