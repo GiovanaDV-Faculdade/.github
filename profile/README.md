@@ -6,14 +6,16 @@
 
 ### 🔹 Cross Platform Application Development
 - [Funções e Tipos Customizados](https://github.com/GiovanaDV/fun-es-e-tipos-customizados---Aula-19-02-2026.git)
+- [Sistemas de Consultas TypeScript](https://github.com/GiovanaDV/sistema-consultas-typescript.git)
 
 ### 🔹 Edge Computing
 - [MQTT](https://github.com/GiovanaDV/Aula-01-EC.git)
 
 ### 🔹 Object-Oriented Programming
-- [Fundamentos de OO](https://github.com/GiovanaDV/Aula01-OOP.git)
+- [Projeto OOP](https://github.com/GiovanaDV/CameraDigital-OOP.git)
 
 ### 🔹 Application Development
+- [Aula 01 de HTML/CSS](https://github.com/GiovanaDV/Aula02.git)
 - [Conceitos básicos de HTML e CSS](https://github.com/GiovanaDV/CP1-.git)
 
 ---
