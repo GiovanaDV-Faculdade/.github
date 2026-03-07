@@ -4,6 +4,9 @@
 
 ## 📚 2026
 
+### 🔹 Projetos/Apostilas Complementares
+- [Pandas Python: data wrangling para ciência de dados](https://github.com/GiovanaDV/PandasPython.git)
+  
 ### 🔹 Cross Platform Application Development
 - [Funções e Tipos Customizados](https://github.com/GiovanaDV/fun-es-e-tipos-customizados---Aula-19-02-2026.git)
 - [Sistemas de Consultas TypeScript](https://github.com/GiovanaDV/sistema-consultas-typescript.git)
