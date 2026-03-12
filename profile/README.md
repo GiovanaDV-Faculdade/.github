@@ -16,6 +16,7 @@
 
 ### 🔹 Object-Oriented Programming
 - [Projeto OOP](https://github.com/GiovanaDV/CameraDigital-OOP.git)
+- [CP1_FiapRide](https://github.com/GiovanaDV/CP1_FiapRide.git)
 
 ### 🔹 Application Development
 - [Aula 01 de HTML/CSS](https://github.com/GiovanaDV/Aula02.git)
