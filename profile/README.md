@@ -9,7 +9,8 @@
   
 ### 🔹 Cross Platform Application Development
 - [Funções e Tipos Customizados](https://github.com/GiovanaDV/fun-es-e-tipos-customizados---Aula-19-02-2026.git)
-- [Sistemas de Consultas TypeScript](https://github.com/GiovanaDV/sistema-consultas-typescript.git)
+- [Sistema de Consultas TypeScript](https://github.com/GiovanaDV/sistema-consultas-typescript.git)
+- [Sistema de Consultas React Native](https://github.com/GiovanaDV/sistema-consulta-mobile.git)
 
 ### 🔹 Edge Computing
 - [MQTT](https://github.com/GiovanaDV/Aula-01-EC.git)
