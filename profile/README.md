@@ -16,12 +16,13 @@
 - [MQTT](https://github.com/GiovanaDV/Aula-01-EC.git)
 
 ### 🔹 Object-Oriented Programming
-- [Projeto OOP](https://github.com/GiovanaDV/CameraDigital-OOP.git)
+- [Projeto Câmera Digital](https://github.com/GiovanaDV/CameraDigital-OOP.git)
 - [CP1_FiapRide](https://github.com/GiovanaDV/CP1_FiapRide.git)
 
 ### 🔹 Application Development
-- [Aula 01 de HTML/CSS](https://github.com/GiovanaDV/Aula02.git)
+- [Aula 01 e 02 de HTML/CSS](https://github.com/GiovanaDV/Aula02.git)
 - [Conceitos básicos de HTML e CSS](https://github.com/GiovanaDV/CP1-.git)
+- [Aula 03 e 04: Classes e Ids + Cores](https://github.com/GiovanaDV/HTML-e-CSS-aula-03-.git)
 
 ---
 
