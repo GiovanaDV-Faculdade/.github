@@ -23,6 +23,8 @@
 - [Aula 01 e 02 de HTML/CSS](https://github.com/GiovanaDV/Aula02.git)
 - [Conceitos básicos de HTML e CSS](https://github.com/GiovanaDV/CP1-.git)
 - [Aula 03 e 04: Classes e Ids + Cores](https://github.com/GiovanaDV/HTML-e-CSS-aula-03-.git)
+- [Aula 06: Display e Posições](https://github.com/GiovanaDV/Aula06_AD.git)
+- [Tributo Beatles (Aula 06)](https://github.com/GiovanaDV/Aula06_AD_parte2.git)
 
 ---
 
