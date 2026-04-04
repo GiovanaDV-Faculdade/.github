@@ -6,6 +6,7 @@
 
 ### 🔹 Projetos/Apostilas Complementares
 - [Pandas Python: data wrangling para ciência de dados](https://github.com/GiovanaDV/PandasPython.git)
+- [Visualização de dados: Atividade 01 Data Science and Analytics](https://github.com/GiovanaDV/CP1_DSA.git)
   
 ### 🔹 Cross Platform Application Development
 - [Funções e Tipos Customizados](https://github.com/GiovanaDV/fun-es-e-tipos-customizados---Aula-19-02-2026.git)
@@ -25,6 +26,8 @@
 - [Aula 03 e 04: Classes e Ids + Cores](https://github.com/GiovanaDV/HTML-e-CSS-aula-03-.git)
 - [Aula 06: Display e Posições](https://github.com/GiovanaDV/Aula06_AD.git)
 - [Tributo Beatles (Aula 06)](https://github.com/GiovanaDV/Aula06_AD_parte2.git)
+- [Aula 07: Formulários](https://github.com/GiovanaDV/Aula07_AD.git)
+- [CP2 - Site CCR](https://github.com/GiovanaDV/CP2_AD.git)
 
 ---
 
